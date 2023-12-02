@@ -81,6 +81,7 @@
 - 실루엣(Silhouette) 계수 기반으로 최적의 K 값 활용
 - 사용자 입력 데이터가 속한 클러스터 내 중심점에 가까운 노래 목록 일부 추출
 </br>
+
 ![IMAGE_DESCRIPTION](./frontend/src/assets/demo2.png)
 ![IMAGE_DESCRIPTION](./frontend/src/assets/demo3.png)
 
@@ -93,6 +94,7 @@
 - 전체 특성 중 일부를 제거하여 모델의 성능이 얼마나 변화하는가 기준으로 중요도 계산
 - 특성 중요도는 클러스터마다 개별 측정
 </br>
+
 ![IMAGE_DESCRIPTION](./frontend/src/assets/demo4.png)
 
 ## 5. 데이터 수집기 구현 및 HDFS, YARN, ZOOKEEPER 서버 환경 구축
