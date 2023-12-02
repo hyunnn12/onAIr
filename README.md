@@ -72,6 +72,7 @@
 - 800만 개의 노래 데이터를 HDFS에 적재하여 분산 병렬 처리
 - 클러스터 실행, 종료, 재실행 스크립트 작성
 </br>
+
 ![IMAGE_DESCRIPTION](./frontend/src/assets/demo1.png)
 
 ## 2. PCA와 K-평균 군집화를 활용한 음악 추천 기능
